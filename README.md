@@ -1,6 +1,6 @@
-# pycloj-keras-examples
+# pycloj-torch-examples
 
-FIXME: description
+Pytorch made accessible for clojure developers using libpython-clj and pycloj-exporter
 
 ## Installation
 
@@ -8,13 +8,12 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
+To start using this project you maust have python3 environment and pytorch installed on that environment.
+Verify that you have activated the environment before running the exmples 
+[installing pytorch with anaconda] (https://pytorch.org/get-started/locally/#linux-anaconda)
+[installing pytorch with pip] (https://pytorch.org/get-started/locally/#linux-pip)
 
-    $ java -jar pycloj-keras-examples-0.1.0-standalone.jar [args]
 
-## Options
-
-FIXME: listing of options this app accepts.
 
 ## Examples
 
