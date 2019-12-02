@@ -1,3 +1,9 @@
+"""A python test with nlp to be transformed into clojure test
+download and axtract data into ../data
+https://download.pytorch.org/tutorial/data.zip
+
+"""
+
 from io import open
 import glob
 import os
