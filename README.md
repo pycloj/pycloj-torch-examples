@@ -9,9 +9,11 @@ Download from http://example.com/FIXME.
 ## Usage
 
 To start using this project you maust have python3 environment and pytorch installed on that environment.
-Verify that you have activated the environment before running the exmples 
-[installing pytorch with anaconda] (https://pytorch.org/get-started/locally/#linux-anaconda)
-[installing pytorch with pip] (https://pytorch.org/get-started/locally/#linux-pip)
+Verify that you have activated the environment before running the examples.
+
+Install pytorch:
+* [installing pytorch with anaconda](https://pytorch.org/get-started/locally/#linux-anaconda)
+* [installing pytorch with pip](https://pytorch.org/get-started/locally/#linux-pip)
 
 
 
